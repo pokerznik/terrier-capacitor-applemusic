@@ -18,5 +18,7 @@ export interface TerrierMusicKit {
     rewind(): Promise<any>;
     forward(): Promise<any>;
     toFirstSong(): Promise<any>;
-    currentPlayingItem(): Promise<any>;
+    currentPlayingItem(): Promise<{
+        currentItem: string;
+    }>;
 }
