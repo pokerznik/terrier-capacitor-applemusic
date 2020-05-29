@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml:2:3-4:14
+INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml:2:3-4:14
+	package
+		ADDED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml:3:7-50
+		INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+		ADDED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml:2:3-4:14
+		INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+		ADDED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml:2:3-4:14
+		INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml:2:13-71
+uses-sdk
+INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+		ADDED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+		ADDED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/zanpokerznik/Projects/partyGorilla/node_modules/Terrier.MusicKit/android/src/main/AndroidManifest.xml
